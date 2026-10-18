@@ -24,5 +24,9 @@ A collection of foundational Python scripts, exercises, and automation utilities
    - **Description:** A script simulating kitchen inventory management using custom functions, return values, and conditional logic.
    - **Key Concepts:** Function parameters, `return` statements, state updates, and boolean checks.
 
+6. **[User Settings Manager](./User_Settings_Manager)**
+   - **Description:** A lightweight utility suite for managing dictionary-based user settings with case-insensitive normalization and structured formatting.
+   - **Key Concepts Used:** Dictionary manipulation, String formatting, Case-insensitive normalization, Error handling
+
 ---
 *Maintained as part of my continuous Python learning journey.*
