@@ -20,7 +20,7 @@ A collection of foundational Python scripts, exercises, and automation utilities
    - **Description:** A utility script designed to process, clean, and extract information from employee profile data using built-in string methods.
    - **Key Concepts:** `.strip()`, `.lower()`, `.title()`, `.replace()`, `.split()`, `.join()`, and string validation checks.
 
-5. **[Kitchen Stock Manager](./kitchen-stock-manager/)**
+5. **[Kitchen Stock Manager](./Kitchen_Stock_Manager/)**
    - **Description:** A script simulating kitchen inventory management using custom functions, return values, and conditional logic.
    - **Key Concepts:** Function parameters, `return` statements, state updates, and boolean checks.
 
