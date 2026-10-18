@@ -16,7 +16,7 @@ A collection of foundational Python scripts, exercises, and automation utilities
    - **Description:** A script that validates lists of patient records for data types, required keys, and regex pattern matching.
    - **Key Concepts:** `isinstance()`, `re.fullmatch()`, dictionary unpacking (`**`), and error reporting.
   
-4. **[Employee Profile Cleaner & Validator](./employee_profile_cleaner/)**
+4. **[Employee Profile Cleaner & Validator](./Employee_Profile_Validator/)**
    - **Description:** A utility script designed to process, clean, and extract information from employee profile data using built-in string methods.
    - **Key Concepts:** `.strip()`, `.lower()`, `.title()`, `.replace()`, `.split()`, `.join()`, and string validation checks.
 
